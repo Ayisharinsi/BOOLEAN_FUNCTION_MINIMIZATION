@@ -62,3 +62,6 @@ RegisterNumber:212223040022
 ## Timing Diagram
 ![Screenshot 2024-03-13 161036](https://github.com/04Varsha/BOOLEAN_FUNCTION_MINIMIZATION/assets/149035374/533d1307-308c-4a6d-9495-b6f289bf8479)
 
+**Result:**
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+
